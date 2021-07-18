@@ -43,6 +43,14 @@ Discover the timeless techniques and strategies that help you:
 
 Detail more [here](./detail/KB00-001.md "Code Complete: A Practical Handbook of Software Construction").
 
+Test link
+
+Detail more [index](./detail/index.md "Code Complete: A Practical Handbook of Software Construction").
+
+Detail more [indexKB00_001](./detail/indexKB00_001.md "Code Complete: A Practical Handbook of Software Construction").
+
+Detail more [KB00index001](./detail/KB00index001.md "Code Complete: A Practical Handbook of Software Construction").
+
 ```
 Categories: Computers - Programming
 Edition: 2
