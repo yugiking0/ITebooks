@@ -41,15 +41,15 @@ Discover the timeless techniques and strategies that help you:
 - Resolve critical construction issues early and correctly
 - Build quality into the beginning, middle, and end of your project
 
-Detail more [here](./detail/KB00-001.md "Code Complete: A Practical Handbook of Software Construction").
+Detail more [here](./detail/KB00-001 "Code Complete: A Practical Handbook of Software Construction").
 
 Test link
 
-Detail more [index](./detail/index.md "Code Complete: A Practical Handbook of Software Construction").
+Detail more [index](./detail/index "Code Complete: A Practical Handbook of Software Construction").
 
-Detail more [indexKB00_001](./detail/indexKB00_001.md "Code Complete: A Practical Handbook of Software Construction").
+Detail more [indexKB00_001](./detail/indexKB00_001 "Code Complete: A Practical Handbook of Software Construction").
 
-Detail more [KB00index001](./detail/KB00index001.md "Code Complete: A Practical Handbook of Software Construction").
+Detail more [KB00index001](./detail/KB00index001 "Code Complete: A Practical Handbook of Software Construction").
 
 ```
 Categories: Computers - Programming
@@ -70,7 +70,7 @@ Straight from the trenches,The Pragmatic Programmer, 20th Anniversary Editioncut
 Organized into self-contained sections -- and filled with compelling anecdotes, examples, and analogies -- The Pragmatic Programmer illustrates today's best practices and major pitfalls of many different aspects of software development. Wherever possible, the authors abstract away specific technologies, focusing on insights you can apply no matter what tools or languages you use -- or will use.
 Whether you're a new coder, an experienced programmer, or a manager responsible for software projects, applying this guide's lessons will help you rapidly improve your productivity, quality, and job satisfaction. You'll learn skills and develop habits and attitudes that form the foundation for long-term success in your career. You'll become a Pragmatic Programmer.
 
-Detail more [here](./detail/KB00-002.md "The Pragmatic Programmer").
+Detail more [here](./detail/KB00-002 "The Pragmatic Programmer").
 
 ```
 Categories: Computers - Programming
