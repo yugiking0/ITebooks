@@ -50,11 +50,3 @@ File: PDF, 10.33 MB
 ![01](../images/KB00-001/20.png "01")
 ![01](../images/KB00-001/21.png "01")
 ![01](../images/KB00-001/22.png "01")
-
-Nếu bạn muốn theo ngành lập trình nghiêm túc thì đây có lẽ là cuốn sách bạn không nên bỏ qua. Theo như lời tác giả thì "Kinh nghiệm nghiên cứu và lập trình được thu thập trong cuốn cẩm nang này sẽ giúp bạn để tạo ra phần mềm chất lượng cao hơn và thực hiện công việc của bạn nhanh hơn và ít gặp các vấn đề hơn".
-
-Cuốn sách này sẽ cung cấp cho bạn cái nhìn sâu sắc về lý do tại sao bạn đã gặp vấn đề trong quá khứ và sẽ chỉ cho bạn cách tránh các vấn đề trong tương lai. Các thực hành lập trình được mô tả ở đây sẽ giúp bạn kiểm soát các dự án lớn và giúp bạn duy trì và sửa đổi phần mềm thành công theo yêu cầu của các dự án của bạn
-
-Cuốn sách có vô số hướng dẫn từ tổng quan như: xây dựng kiến trúc, liên hệ giữa các component,.. cho tới các chi tiết như tổ chức function, cách đọc tên biến.
-
-Cuốn sách phù hợp cho các đối tượng như: Học sinh/sinh viên tới các lập trình viên tự học hay Lập trình viên giàu kinh nghiệm, Technical Leads đều phù hợp.
