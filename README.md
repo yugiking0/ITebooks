@@ -23,9 +23,9 @@
 
 ## 01. Tuyển chọn (Knowledge Base)
 
-### Code Complete 2: A Practical Handbook of Software Construction(Steve McConnell) [KB00.001]
+### Code Complete 2: A Practical Handbook of Software Construction(Steve McConnell) [KB00-001]
 
-![Code Complete 2](.\images\KB00.001\Cover.jpg "Code Complete 2")
+![Code Complete 2](.\images\KB00-001\Cover.jpg "Code Complete 2")
 
 Widely considered one of the best practical guides to programming, Steve McConnell’s original CODE COMPLETE has been helping developers write better software for more than a decade. Now this classic book has been fully updated and revised with leading-edge practices—and hundreds of new code samples—illustrating the art and science of software construction.
 Capturing the body of knowledge available from research, academia, and everyday commercial practice, McConnell synthesizes the most effective techniques and must-know principles into clear, pragmatic guidance. No matter what your experience level, development environment, or project size, this book will inform and stimulate your thinking—and help you build the highest quality code.
@@ -41,7 +41,7 @@ Discover the timeless techniques and strategies that help you:
 - Resolve critical construction issues early and correctly
 - Build quality into the beginning, middle, and end of your project
 
-Detail more [here](./detail/KB00.001.md "Code Complete: A Practical Handbook of Software Construction").
+Detail more [here](./detail/KB00-001.md "Code Complete: A Practical Handbook of Software Construction").
 
 ```
 Categories: Computers - Programming
@@ -54,15 +54,15 @@ ISBN: 78-0-7356-1967-8
 File: PDF, 10.33 MB
 ```
 
-### The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition(2019 - Andrew Hunt, David Hurst Thomas) [KB00.002]
+### The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition(2019 - Andrew Hunt, David Hurst Thomas) [KB00-002]
 
-![Code Complete 2](.\images\KB00.002\Cover.jpg "Code Complete 2")
+![Code Complete 2](.\images\KB00-002\Cover.jpg "Code Complete 2")
 
 Straight from the trenches,The Pragmatic Programmer, 20th Anniversary Editioncuts through the increasing specialization and technicalities of modern software development to examine the core process: transforming a requirement into working, maintainable code that delights users. Extensively updated with ten new sections and major revisions throughout, this edition covers topics ranging from career development to architectural techniques for keeping code flexible, adaptable, and reusable.
 Organized into self-contained sections -- and filled with compelling anecdotes, examples, and analogies -- The Pragmatic Programmer illustrates today's best practices and major pitfalls of many different aspects of software development. Wherever possible, the authors abstract away specific technologies, focusing on insights you can apply no matter what tools or languages you use -- or will use.
 Whether you're a new coder, an experienced programmer, or a manager responsible for software projects, applying this guide's lessons will help you rapidly improve your productivity, quality, and job satisfaction. You'll learn skills and develop habits and attitudes that form the foundation for long-term success in your career. You'll become a Pragmatic Programmer.
 
-Detail more [here](./detail/KB00.002.md "The Pragmatic Programmer").
+Detail more [here](./detail/KB00-002.md "The Pragmatic Programmer").
 
 ```
 Categories: Computers - Programming
