@@ -56,7 +56,7 @@ File: PDF, 10.33 MB
 
 ### The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition(2019 - Andrew Hunt, David Hurst Thomas) [KB00-002]
 
-![Code Complete 2](.\images\KB00-002\Cover.jpg "Code Complete 2")
+![Code Complete 2](./images/KB00-002/Cover.jpg "Code Complete 2")
 
 Straight from the trenches,The Pragmatic Programmer, 20th Anniversary Editioncuts through the increasing specialization and technicalities of modern software development to examine the core process: transforming a requirement into working, maintainable code that delights users. Extensively updated with ten new sections and major revisions throughout, this edition covers topics ranging from career development to architectural techniques for keeping code flexible, adaptable, and reusable.
 Organized into self-contained sections -- and filled with compelling anecdotes, examples, and analogies -- The Pragmatic Programmer illustrates today's best practices and major pitfalls of many different aspects of software development. Wherever possible, the authors abstract away specific technologies, focusing on insights you can apply no matter what tools or languages you use -- or will use.
